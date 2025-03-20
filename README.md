@@ -1,4 +1,5 @@
 # Logistic-Regression-Practice:
+programming language used: Python<br>
 "Coding_logistic_regression_assignment" was done as an assignment during my learning process.
 this is a logistic regression model that classifies a breast cancer tumor as Benign or malignant.
 markdown cells are added between cells to explain the code workflow.
